@@ -14,29 +14,29 @@ Your hunt starts in the `scavenger_hunt` folder.
 ## Question 1
 What animal is hidden in the folder `folder1/subfolder1`?
 
-Answer 1: 
+Answer 1: Zebra
 
 ## Question 2
 There are multiple animals hidden in `folder1/subfolder2`. Which among them is
 the largest?
 
-Answer 2: 
+Answer 2: Elephant
 
 ## Question 3
 What animal is hidden in the folder `folder3`?
 
-Answer 3: 
+Answer 3: Lion
 
 ## Question 4
 As sneaky animal is hidden in a *hidden file* in `folder2/subfolder4`. What is
 the animal?
 
-Answer 4: 
+Answer 4: Koala
 
 ## Question 5
 What animal is hidden in the folder `folder2` (not in a subfolder)?
 
-Answer 5: 
+Answer 5: Kangaroo
 
 ## Question 6
 There's a secret animal hidden in across multiple files that that leads to a
@@ -44,12 +44,12 @@ second, super-duper-secret animal. Run `python reveal_animal.py` (reference the
 instructions for decoding animals to figure out how to run the script if you
 aren't in the `assn-2-yourusername` folder). What are these two animals?
 
-Answer 6 (secret): 
-Animal 6 (super-duper-secret): 
+Answer 6 (secret): Bobcat
+Animal 6 (super-duper-secret): Penguin
 
 ## Bonus Question
 What is the name band that sings the song with the lyric "I always wanted a
 [animal]", where [animal] is the one found in `folder2/subfolder4/q.txt`? What
 would YOU do if you had a million dollars?
 
-Bonus Answers: 
+Bonus Answers: Monkey
